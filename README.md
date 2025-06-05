@@ -3,7 +3,7 @@
 ## 🎯 Task Objective
 This project showcases how to monitor real-time system and application performance metrics using **Netdata**, a lightweight and powerful monitoring tool deployed via **Docker**.
 
-> ✅ Internship Task: Monitor CPU, Memory, Disk, and Docker container usage  
+> ✅ Task: Monitor CPU, Memory, Disk, and Docker container usage  
 > 🔧 Tools: Netdata (v2.5.0-151-nightly), Docker  
 > 📍 Goal: Understand real-time performance monitoring and observability
 
