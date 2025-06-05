@@ -65,7 +65,11 @@ http://localhost:19999
 
 ## 📸 Screenshot of Dashboard
 
-> ![Netdata Dashboard Screenshot](screenshot.png)  
+> ![Netdata Dashboard Screenshot](screenshot/screenshot.png)  
+> ![Netdata Plugin-Info Screenshot](screenshot/plugininfo.png)  
+> ![Netdata Ram-Cpu-Kernel-Os Screenshot](screenshot/RamCpuKernel.png)  
+> ![Netdata Collection Metrics Screenshot](screenshot/collectionmetrics.png)  
+
 > *Live view of CPU, Memory, Disk, and Container metrics in real-time*
 
 ---
